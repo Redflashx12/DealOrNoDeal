@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SpielLeiter
+comment1.params=
+comment1.target=SpielLeiter()
+comment2.params=
+comment2.target=boolean\ spielen()
+comment3.params=spiel
+comment3.target=int\ intEingabe(Spiel)
+comment4.params=
+comment4.target=java.lang.String\ strEingabe()
+numComments=5
